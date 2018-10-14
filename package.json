@@ -1,0 +1,39 @@
+{
+  "name": "cordova-plugin-file-picker",
+  "version": "1.0.0",
+  "description": "Cordova File Picker Plugin",
+  "cordova": {
+    "id": "cordova-plugin-file-picker",
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {
+    "cordova-android": "7.1.1",
+    "pegjs": "0.10.0"
+  },
+  "devDependencies": {
+    "cordova-android": "7.1.1",
+    "pegjs": "0.10.0",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siyahrichard/cordova-plugin-file-picker.git"
+  },
+  "keywords": [
+    "cordova",
+    "file",
+    "picker",
+    "pick",
+    "select",
+    "choose",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "SiyahRichard",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/siyahrichard/cordova-plugin-file-picker/issues"
+  },
+  "homepage": "https://github.com/siyahrichard/cordova-plugin-file-picker#readme"
+}
